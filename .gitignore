@@ -1,0 +1,31 @@
+# IDE
+.idea/
+*.iml
+
+# Java / Maven
+backend/target/
+*.class
+*.jar
+*.war
+
+# Logs
+logs/
+backend/logs/
+*.log
+*.log.*
+
+# Node.js
+frontend/node_modules/
+node_cache/
+
+# Uploads (user-generated content)
+uploads/
+backend/uploads/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Environment
+.env
+*.local
